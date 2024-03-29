@@ -1,0 +1,39 @@
+boxer: 0.9976097998207349
+Portuguese Warren dog, small size, smooth hair: 0.9971915147893636
+Azores Cattle dog: 0.9974305348072902
+Aidi: 0.9975500448162533
+Portuguese Sheepdog: 0.9982073498655513
+Estrela Mountain dog: 0.9981475948610696
+Portuguese Warren dog, small size, weired hair: 0.9984463698834778
+Portuguese Warren dog, medium size, weired hair: 0.9982073498655513
+Mixed breed: 0.9969524947714371
+Camp dog: 0.9971915147893636
+Portuguese Pointing Dog-long hair: 0.9981475948610696
+Portuguese Pointing Dog: 0.9981475948610696
+Algarve Barrocal Dog: 0.9970720047804004
+Portuguese Water dog: 0.9981475948610696
+Sloughi: 0.9974902898117718
+German Shepherd cross: 0.9973110247983269
+Husky: 0.997131759784882
+Gambian local: 0.9968329847624738
+Terrier cross: 0.9979085748431431
+English Pointer: 0.9980280848521064
+German Shepherd: 0.9980280848521064
+Dachshund: 0.9974902898117718
+Canis Panther: 0.998087839856588
+Castro Laboreiro Watchdog: 0.9976097998207349
+German shepherd: 0.9981475948610696
+Indian local: 0.9972512697938453
+Rottweiler cross: 0.9980280848521064
+Miniature Schnauzer: 0.9973110247983269
+EpagneulBreton: 0.9968927397669555
+Great Dane cross: 0.9979683298476247
+Staffordshire Bull Terrier: 0.9979683298476247
+Brazilian Terrier: 0.998087839856588
+Mastiff: 0.9974305348072902
+Black Retriever: 0.9980280848521064
+Cocker Spaniel: 0.9978488198386615
+Pit bull: 0.9978488198386615
+Irish Soft Coated Wheaten Terrier: 0.9981475948610696
+Shar Pei: 0.9972512697938453
+English Springer Spaniel: 0.9985658798924409
